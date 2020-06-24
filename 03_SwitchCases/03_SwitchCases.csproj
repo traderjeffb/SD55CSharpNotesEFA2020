@@ -7,7 +7,7 @@
     <ProjectGuid>{5B3EFEF3-9317-4BE5-95AE-360B2C684622}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_03_SwitchCases</RootNamespace>
-    <AssemblyName>_03_SwitchCases</AssemblyName>
+    <AssemblyName>03_SwitchCases</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

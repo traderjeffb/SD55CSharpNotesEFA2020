@@ -7,7 +7,7 @@
     <ProjectGuid>{65A305CC-3CD6-4D99-814D-C4D7C206584A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_03_Ternaries</RootNamespace>
-    <AssemblyName>_03_Ternaries</AssemblyName>
+    <AssemblyName>03_Ternaries</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
