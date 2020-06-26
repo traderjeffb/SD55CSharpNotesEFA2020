@@ -21,7 +21,7 @@ namespace _00_variables_and_valueTypes
             char symbol = '&';
             char number = '5';
             char space = ' '; //can be a symbol, number or even a space 
-            char specialCharacter = '/n';//or even a special character
+            char specialCharacter = 'n';//or even a special character
 
             //Whole Numbers
             byte byteExample = 255; //max numbe is 256
@@ -29,7 +29,7 @@ namespace _00_variables_and_valueTypes
             short shortExample = 32767;
             Int16 anotherShortExample = 32000;
             int intMin = -2147483648;
-            Int32 intMax = 2147483648;
+            UInt32 intMax = 2147483648;
             long longExample = 9223372036854775807;
             Int64 longMin = 9223372036854775807;//same as above 
             

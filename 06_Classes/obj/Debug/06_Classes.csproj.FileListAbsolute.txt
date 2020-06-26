@@ -1,0 +1,2 @@
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\06_Classes\obj\Debug\06_Classes.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\06_Classes\obj\Debug\06_Classes.csproj.CoreCompileInputs.cache
