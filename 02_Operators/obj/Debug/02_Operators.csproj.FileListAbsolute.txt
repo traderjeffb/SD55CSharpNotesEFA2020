@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\02_Operators\bin\Debug\02_Operators.exe.config
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\02_Operators\bin\Debug\02_Operators.exe
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\02_Operators\bin\Debug\02_Operators.pdb
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\02_Operators\obj\Debug\02_Operators.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\02_Operators\obj\Debug\02_Operators.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\02_Operators\obj\Debug\02_Operators.exe
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\02_Operators\obj\Debug\02_Operators.pdb

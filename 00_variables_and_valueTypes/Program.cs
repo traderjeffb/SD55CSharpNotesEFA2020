@@ -55,7 +55,7 @@ namespace _00_variables_and_valueTypes
             Pastrytype anotherOne = Pastrytype.Donut;
 
             //Structs -have default values
-            Int32 = 42;
+            Int32 potato = 42;
             DateTime today = DateTime.Today;
             DateTime birthday = new DateTime(1805, 11, 24);
             DateTime test = new DateTime();
