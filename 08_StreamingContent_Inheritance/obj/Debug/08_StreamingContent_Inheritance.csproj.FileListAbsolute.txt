@@ -1,0 +1,2 @@
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\08_StreamingContent_Inheritance\obj\Debug\08_StreamingContent_Inheritance.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\08_StreamingContent_Inheritance\obj\Debug\08_StreamingContent_Inheritance.csproj.CoreCompileInputs.cache

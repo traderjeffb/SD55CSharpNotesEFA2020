@@ -1,0 +1,16 @@
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\08_Inheritance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\08_Inheritance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\08_Inheritance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\08_Inheritance_Tests\bin\Debug\08_Inheritance_Tests.dll
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\08_Inheritance_Tests\bin\Debug\08_Inheritance_Tests.pdb
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\08_Inheritance_Tests\bin\Debug\08_Inheritance_Classes.dll
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\08_Inheritance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\08_Inheritance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\08_Inheritance_Tests\bin\Debug\08_Inheritance_Classes.pdb
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\08_Inheritance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\08_Inheritance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\08_Inheritance_Tests\obj\Debug\08_Inheritance_Tests.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\08_Inheritance_Tests\obj\Debug\08_Inheritance_Tests.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\08_Inheritance_Tests\obj\Debug\08_Inheritance_Tests.csproj.CopyComplete
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\08_Inheritance_Tests\obj\Debug\08_Inheritance_Tests.dll
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\08_Inheritance_Tests\obj\Debug\08_Inheritance_Tests.pdb

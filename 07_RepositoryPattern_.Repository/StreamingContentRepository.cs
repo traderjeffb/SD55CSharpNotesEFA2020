@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.NetworkInformation;
@@ -66,5 +67,17 @@ namespace _07_RepositoryPattern_.Repository
         // Get By Rating
         // Get By Family Friendly
         // Etc
+        public List<StreamingContent> GetContentByIsFamilyFriendly(bool isFamilyFriendly)
+        {
+            List<StreamingContent> sortedlist = new List<StreamingContent>();
+            foreach (StreamingContent content in _contentDirectory)
+            {
+                if (content.IsFamilyFriendly == isFamilyFriendly)
+                {
+                    sortedList.Add(content);
+                }
+            }
+            return sortedList;
+        }
     }
 }

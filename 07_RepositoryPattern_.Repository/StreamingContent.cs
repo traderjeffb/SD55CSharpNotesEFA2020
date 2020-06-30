@@ -49,6 +49,7 @@ namespace _07_RepositoryPattern_.Repository
                     case MaturityRating.R:
                     case MaturityRating.NC_17:
                     case MaturityRating.TV_MA:
+                    default:
                         return false;
                 }
                 //Another way to do this
@@ -67,9 +68,11 @@ namespace _07_RepositoryPattern_.Repository
 
         public GenreType TypeOfGenre { get; set; }
         public StreamingContent() { }
-        public StreamingContent(string title, string description, MaturityRating maturityRating, int starRating, bool isFamilyFriendly, GenreType typeOfGenre)
+        //constructors serve as a kind of validation allow us to "new up", or instantiate, an object while ensuring that all necessary data is given at the point of construction , aka instantiation(below)
+        public StreamingContent(string title, string description, MaturityRating maturityRating, int starRating, GenreType typeOfGenre)
+
         {
-            Title = title;
+            Title = title;//this is our set method: we are setting the value of our property Title to whatever the arguement of our the variable "title"  declared in the prarmeters of our constructor
             Description = description;
             MaturityRating = maturityRating;
             StarRating = starRating;
