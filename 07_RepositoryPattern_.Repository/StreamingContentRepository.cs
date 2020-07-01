@@ -69,7 +69,7 @@ namespace _07_RepositoryPattern_.Repository
         // Etc
         public List<StreamingContent> GetContentByIsFamilyFriendly(bool isFamilyFriendly)
         {
-            List<StreamingContent> sortedlist = new List<StreamingContent>();
+            List<StreamingContent> sortedList = new List<StreamingContent>();
             foreach (StreamingContent content in _contentDirectory)
             {
                 if (content.IsFamilyFriendly == isFamilyFriendly)
