@@ -7,7 +7,7 @@
     <ProjectGuid>{3311E58E-745D-4053-A4A8-6EA2F5663A21}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_09_StreamingContent_Console</RootNamespace>
-    <AssemblyName>_09_StreamingContent_Console</AssemblyName>
+    <AssemblyName>09_StreamingContent_Console</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,9 +45,20 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\ProgramUI.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\07_RepositoryPattern_.Repository\07_RepositoryPattern_.Repository.csproj">
+      <Project>{4EDD75B1-AF2E-49A4-A551-51A362D0BF2F}</Project>
+      <Name>07_RepositoryPattern_.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\08_StreamingContent_Inheritance\08_StreamingContent_Inheritance.csproj">
+      <Project>{60EFF24F-E78C-486E-A9F3-6C76B7E9B47C}</Project>
+      <Name>08_StreamingContent_Inheritance</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
