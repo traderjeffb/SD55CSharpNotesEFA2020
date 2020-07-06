@@ -11,7 +11,15 @@ namespace _09_StreamingContent_Console.UI
 {
     public class ProgramUI
     {
+        private readonly IConsole _console;
         private readonly StreamingRepository _streamingRepo = new StreamingRepository();
+
+        public ProgramUI(IConsole console)
+        {
+            _condo
+
+        }
+
         public void Run()
         {
             SeedContentList();
