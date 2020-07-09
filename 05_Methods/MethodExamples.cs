@@ -30,7 +30,7 @@ namespace _05_Methods
         //4) Body  stuff between the {}
         public void SayHello(string name)
         {
-            Console.WriteLine($"hello, {name}!");
+            Console.WriteLine($"hello, {name}!"); 
         }
         public int AddTwoNumber(int numOne, int numTwo)
         {
@@ -49,6 +49,6 @@ namespace _05_Methods
             int years = Convert.ToInt32(Math.Floor(totalAgeInYears));
             return years;
         }
-    }
+    } 
 }
 

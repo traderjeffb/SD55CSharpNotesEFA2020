@@ -52,7 +52,7 @@ namespace _03_IfElseStatements
             string ageInput = Console.ReadLine();
             int age = Convert.ToInt32(ageInput);
 
-            if (age > 17)
+            if (age > 17) // if()
             {
                 Console.WriteLine("congrats on being an adult");
             }
@@ -72,7 +72,7 @@ namespace _03_IfElseStatements
                 } 
             }
 
-            if (age> 65 || age < 18)
+            if (age< 65 || age > 18)
             {
                 Console.WriteLine("You're still working");
             }

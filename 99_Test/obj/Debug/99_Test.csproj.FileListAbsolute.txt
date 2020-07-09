@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\99_Test\bin\Debug\99_Test.exe.config
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\99_Test\bin\Debug\99_Test.exe
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\99_Test\bin\Debug\99_Test.pdb
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\99_Test\obj\Debug\99_Test.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\99_Test\obj\Debug\99_Test.exe
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\99_Test\obj\Debug\99_Test.pdb

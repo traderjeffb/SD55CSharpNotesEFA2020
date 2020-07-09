@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\99_Tic_Tac_Toe\obj\Debug\99_Tic_Tac_Toe.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\99_Tic_Tac_Toe\bin\Debug\99_Tic_Tac_Toe.exe.config
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\99_Tic_Tac_Toe\bin\Debug\99_Tic_Tac_Toe.exe
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\99_Tic_Tac_Toe\bin\Debug\99_Tic_Tac_Toe.pdb
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\99_Tic_Tac_Toe\obj\Debug\99_Tic_Tac_Toe.exe
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\99_Tic_Tac_Toe\obj\Debug\99_Tic_Tac_Toe.pdb
+C:\ElevenFiftyProjects\GoldBadge\CSharp_Fundamentals\99_Tic_Tac_Toe\obj\Debug\99_Tic_Tac_Toe.csprojAssemblyReference.cache

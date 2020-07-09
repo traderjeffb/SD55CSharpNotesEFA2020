@@ -22,7 +22,7 @@ namespace _01_ReferenceTypes
             string lastName = Console.ReadLine();
 
             //Concatenation
-            string concatenatiedFullName = firstName + " " + lastName;
+            string concatenatiedFullName = firstName + " " + lastName; 
             //Composite
             string compositeFullName = string.Format("{0} {1}", firstName, lastName);
             //interpolation
@@ -70,7 +70,7 @@ namespace _01_ReferenceTypes
             Stack<string> lastInFirstOut = new Stack<string>();
 
             //Classes must be instanciated with "new" keyword
-            Random rng = new Random();
+            Random rng = new Random(); //Tic-Tac-Toe myNewInstanceOfAClass = new Tic_Tac-Toe
             int randomNumber = rng.Next();
             Console.WriteLine(randomNumber);
 

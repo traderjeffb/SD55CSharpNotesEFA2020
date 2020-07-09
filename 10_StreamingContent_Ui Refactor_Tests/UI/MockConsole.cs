@@ -9,6 +9,7 @@ namespace _10_StreamingContent_Ui_Refactor_Tests.UI
 {
     public class MockConsole : IConsole
     {
+        //creating fake user input 2  lines below
         public Queue<string> UserInput;
         public string Output;
 
