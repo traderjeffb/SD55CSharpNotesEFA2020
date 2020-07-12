@@ -8,5 +8,6 @@ namespace _99_Practice
 {
     class myOtherClass
     {
+
     }
 }
